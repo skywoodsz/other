@@ -1,1 +1,85 @@
 
+//打开浏览器
+MoveTo 520, 1056
+Delay 1329
+LeftDown 1
+MoveTo 520, 1057
+Delay 97
+LeftUp 1
+/*
+//打开第一课
+MoveTo 1609,449
+Delay 1329
+LeftDown 1
+MoveTo 1609,449
+Delay 97
+LeftUp 1
+
+Delay 10000
+
+
+MoveTo 730, 802
+Delay 1329
+LeftDown 1
+MoveTo 730, 802
+Delay 97
+LeftUp 1
+LockMouse
+Delay 600000
+UnlockMouse 
+*/
+//打开第二课
+MoveTo 1610,482
+Delay 1329
+LeftDown 1
+MoveTo 1610,482
+Delay 97
+LeftUp 1
+
+Delay 6000
+
+
+MoveTo 730, 802
+Delay 1329
+LeftDown 1
+MoveTo 730, 802
+Delay 97
+LeftUp 1
+LockMouse
+Delay 600000
+UnlockMouse
+
+
+//打开第三课
+MoveTo 1650,510
+Delay 1329
+LeftDown 1
+MoveTo 1650,510
+Delay 97
+LeftUp 1
+
+Delay 6000
+
+
+MoveTo 730, 802
+Delay 1329
+LeftDown 1
+MoveTo 730, 802
+Delay 97
+LeftUp 1
+LockMouse
+Delay 600000
+UnlockMouse
+
+
+
+/*
+MoveTo 1609,449
+LeftClick 1
+Delay 1000
+MoveTo 730, 802
+LeftClick 1
+LockMouse
+Delay 600000
+UnlockMouse
+*/
